@@ -6,7 +6,8 @@
 
 ### Sujet
 Le but de ce projet est de créer une page qui change de couleur lorsqu'on appuie sur un bouton (light theme / dark theme)
-image
+
+[[image]]
 
 ### Remarques
 Le but est de ne pas toucher à index.html et style.css donc de ne modifier uniquement script.js
