@@ -23,7 +23,7 @@ Remarque : Si je ne précise pas l'endroit où écrire des instructions, faites 
 6. Récupérer l'input dans pageLoaded
 7. Créer une fonction updateHTML qui aura pour but de mettre à jour la liste de fruit dans l'html.
 8. Dans cette fonction, créer une variable qui représentera la liste de fruit en html.
-9. Pour la remplir boucler sur le tableau de fruits en insérant à chaque fois dans une balise <li></li> le nom du fruit.
+9. Pour la remplir boucler sur le tableau de fruits en insérant à chaque fois le nom du fruit dans une balise `li`.
 
 Faite en sorte que toutes les balises `li` soient entre des balise `ul` comme ci-dessous :
 
