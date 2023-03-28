@@ -14,4 +14,4 @@ Le but est de ne pas toucher à index.html et style.css donc de ne modifier uniq
 
 Ce projet s'adresse particulièrement au novice. Si vous avez un peu d'expérience en JS vous pouvez faire cet exercice sans suivre le tutoriel ci-dessous.
 
-Si vous avez des questions, écrivez les nous dans le discord !
+Si vous avez des questions, écrivez les nous sur discord !
