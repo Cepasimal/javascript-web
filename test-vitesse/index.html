@@ -1,0 +1,45 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Test de vitesse</title>
+    <link rel="stylesheet" media="screen" type="text/css" href="styles/base.css"/>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <header>
+        <div>Test de vitesse</div>
+    </header>
+
+    <div class="page-container" >
+       <div class="page">
+            <!-- Nombre de secondes restantes -->
+            <div class="timer">
+                <div>Temps :</div>
+                <div id="timer"></div>
+            </div>
+
+            <!-- Tableau de mots qui doivent être écrit par l'utilisateur -->
+            <div class="board-container">
+                <div id="board" class="board"></div>
+            </div>
+    
+            <!-- La ou l'utilisateur écrit les mots -->
+            <div class="input-container">
+                <input class="input" placeholder="Écrivez ici" id="input"/>
+            </div>
+    
+            <!-- Boutons Start et Stop -->
+            <div class="button-container">
+                <button id="reset">Reset</button>
+            </div>
+            
+            <!-- Message et/ou image de victoire -->
+            <div class="win-panel">
+                <div id="win">
+                </div>
+            </div>
+       </div>
+    </div>
+</body>
+</html>

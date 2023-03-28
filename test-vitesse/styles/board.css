@@ -1,0 +1,21 @@
+.board-container {
+  display: flex;
+  justify-content: center;
+}
+
+.board {
+  display: flex; 
+  justify-content: center; 
+  gap: 32px;
+  padding: 12px; 
+  border: solid 1px var(--primary);
+  border-radius: var(--big-radius);
+  height: 22px;
+  max-width: 620px;
+  width: 100%;
+}
+
+.next-word {
+  color: var(--primary);
+  font-weight: var(--bold);
+}

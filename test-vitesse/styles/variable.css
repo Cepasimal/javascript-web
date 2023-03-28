@@ -1,0 +1,12 @@
+:root {
+  --grey: #ddd;
+  --dark-light: #27262C;
+  --dark-light-hover: rgb(60, 60, 60);
+  --dark: #151417;
+  --primary: #0771D4;
+  --primary-hover: #1a8af3;
+  --shadow: rgba(0, 0, 0, 0.25);
+  --bold: 600;
+  --small-radius: 8px;
+  --big-radius: 30px;
+}

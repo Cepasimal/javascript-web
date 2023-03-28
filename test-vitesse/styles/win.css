@@ -1,0 +1,17 @@
+.win-panel {
+  display: flex; 
+  justify-content: center; 
+}
+
+.win-text { 
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.win-img {
+  display: flex; 
+  justify-content: center;
+  border-radius: 8px;
+  margin-top: 18px
+}

@@ -1,0 +1,22 @@
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px
+}
+
+.input {
+  padding: 12px 18px;
+  font-size: 16px;
+  color: white;
+  border: solid 2px var(--dark);
+  border-radius: var(--big-radius);
+  background-color: var(--dark);
+}
+
+.input:hover {
+  border-color: var(--primary);
+}
+
+input:focus-visible {
+  outline: none;
+}

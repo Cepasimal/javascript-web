@@ -1,0 +1,18 @@
+.button-container {
+  display: flex; 
+  justify-content: right; 
+  margin-top: 8px
+}
+
+button {
+  padding: 8px 28px;
+  background-color: var(--primary);
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: var(--big-radius);
+}
+
+button:hover {
+  background-color: var(--primary-hover);
+}
